@@ -1,2 +1,4 @@
 # Windows-Powershell-Network-Tester
-A simple powershell script that tests the network on a PC and outputs to a file. 
+A PowerShell script modeled on the netAlly LinkSprinter, built to automate network diagnostics for the DTCC IT team. Runs connectivity checks, DNS lookups, and reports results in a readable format.
+
+
